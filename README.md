@@ -45,3 +45,23 @@ Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault
 | --- | --- | --- | --- | --- |
 Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="110px"> | `❌ No` |  Very Easy | <table> <thead> <tr><th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="60px"></td> <td></td> <td></td> <td></td> </tr> <tr> <td align="center">1</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table> |
 Mars 2020 Contributor | <img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="110px"> | `❌ No` | Easy | <table> <thead> <tr><th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="60px"></td> <td></td> <td></td> <td></td> </tr> <tr> <td align="center">1</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table> |
+
+# 🎨 Tier Colors & Labels
+
+Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below:
+
+| Tier | Label | Sample | Hex | Visual |
+| --- | --- | --- | --- | --- |
+🥉 Bronze | `x2` | ![x2](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-bronze.svg) | `#F9BFA7` | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
+🥈 Silver | `x3` | ![x3](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-silver.svg) | `#E1E4E4` | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+🥇 Gold | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+
+# 👋 Achievement Skin Tone
+
+Some of the achievements on GitHub appear with a different skin color depending on your Emoji Skin Tone Preference.<br/>
+You can change your preferred Skin Tone by going to the [appearance settings](https://github.com/settings/appearance).
+
+| Badge | Name | Skin Tone Versions | 
+| :-: | :-: | :-: |
+| <img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png" width="120px"> | Starstruck | <table> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone2.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone3.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone4.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone5.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone6.png" width="60px"></td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td> </tr> </tbody> </table> |
+| <img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png" width="120px"> | Quickdraw | <table><tbody> <tr> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone2.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone3.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone4.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone5.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone6.png" width="60px"></td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td><td align="center">👋🏼</td> <td align="center">👋🏽</td><td align="center">👋🏾</td><td align="center">👋🏿</td></tr> </tbody> </table> |
