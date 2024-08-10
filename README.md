@@ -39,3 +39,9 @@ Galaxy Brain | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Bad
 Starstruck | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="120px"> | This badge is given to someone when one of their repository's gets 16 stars. |
 Mars 2020 Contributor | <img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="120px"> | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter).<br/>*(Now unable to earn)*  |
 Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="120px"> | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/).<br/>*(Now unable to earn)* |
+
+# ⛔ Un-Obtainable Achievements
+| Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
+| --- | --- | --- | --- | --- |
+Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="120px"> | `❌ No` |  Very Easy | <table> <thead> <tr> <th>DEFAULT</th> </tr>  </thead><tbody> <tr> <td><img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="60px"></td> </tr> <tr> <td align="center">1</td> </tr> </tbody> </table> |
+Mars 2020 Contributor | <img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="120px"> | `❌ No` | Easy | <table> <thead> <tr> <th>DEFAULT</th> </tr> </thead> <tbody> <tr> <td><img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="60px"></td> </tr> <tr> <td align="center">1</td> </tr> </tbody> </table> |
