@@ -84,3 +84,9 @@ You can change your preferred Skin Tone by going to the [appearance settings](ht
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
 [stars-dark]: https://raw.githubusercontent.com/UjjwalSaini07/GitHub-Achievement-Badges/0e152f88d892e6fe5122358253ecb0ae9926c0f8/Assests/Extra/stars-dark.svg#gh-dark-mode-only
 [stars-light]: https://raw.githubusercontent.com/UjjwalSaini07/GitHub-Achievement-Badges/28cbfeadd11b7440c1347a3da92c5a9b7a805249/Assests/Extra/stars-light.svg#gh-light-mode-only
+
+## ℹ️ More information ℹ️
+
+| PairExtraordinaire | PullSharkTiers | GalaxyBrain | Starstruck |
+| --- | --- | --- | --- |
+| <img src="Assests/Extra/TiersGifs/PairExtraordinaireTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/PullSharkTiersUp.gif" width="160px"> | <img src="Assests/Extra/TiersGifs/GalaxyBrainTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/StarstruckTiers.gif" width="170px"> |
