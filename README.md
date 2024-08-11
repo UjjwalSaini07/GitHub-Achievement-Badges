@@ -113,3 +113,9 @@ Only 2 achievements had their name altered in all of GitHub's History. These 2 a
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository and Help other to get Badges and make their GitHub Profile best.
 - Credit to @drknzz for the skin tone images.
+
+# ⚠️ Any Problem ⚠️
+- Refer this main GitHub Document [Link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)
+- Feel Free to Contact Me to Solve your problem [Mail-ID](mailto:ujjwalsaini0007@gmail.com)
+- Thank u to use this Repository.
+- <span>Show Some love <img src="https://i.pinimg.com/originals/ca/97/bd/ca97bde328433c2497b154afdee5f8d7.gif" alt="Heart Icon" style="width: 16px; height: 16px; vertical-align: middle;" /> by Starring ✯ the repo.</span>
