@@ -87,6 +87,6 @@ You can change your preferred Skin Tone by going to the [appearance settings](ht
 
 ## ℹ️ More information ℹ️
 
-| PairExtraordinaire | PullSharkTiers | GalaxyBrain | Starstruck |
+| PairExtraordinaire Badge | PullShark Badge | GalaxyBrain Badge | Starstruck Badge |
 | --- | --- | --- | --- |
-| <img src="Assests/Extra/TiersGifs/PairExtraordinaireTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/PullSharkTiersUp.gif" width="160px"> | <img src="Assests/Extra/TiersGifs/GalaxyBrainTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/StarstruckTiers.gif" width="170px"> |
+| <img src="Assests/Extra/TiersGifs/PairExtraordinaireTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/PullSharkTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/GalaxyBrainTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/StarstruckTiers.gif" width="170px"> |
