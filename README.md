@@ -98,3 +98,18 @@ Highlights Badges showcase your most impressive achievements and contributions o
 | PairExtraordinaire Badge | PullShark Badge | GalaxyBrain Badge | Starstruck Badge |
 | --- | --- | --- | --- |
 | <img src="Assests/Extra/TiersGifs/PairExtraordinaireTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/PullSharkTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/GalaxyBrainTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/StarstruckTiers.gif" width="170px"> |
+
+# 🕒 Previous Names 🕒
+
+Only 2 achievements had their name altered in all of GitHub's History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as follows:
+```diff
+- GitHub Sponsor
++ Public Sponsor
+
+- Mars 2020 Helicopter Contributor
++ Mars 2020 Contributor
+```
+
+# 📋 Credits
+- Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository and Help other to get Badges and make their GitHub Profile best.
+- Credit to @drknzz for the skin tone images.
