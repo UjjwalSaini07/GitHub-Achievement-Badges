@@ -1,17 +1,20 @@
 # 🏆 GitHub-Achievement-Badges 🏆
-Discover the Complete Collection of GitHub Profile Badges and Achievements to Showcase Your Contributions and Milestones in Style!
+🌟 Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! 🏆 Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! 🚀
 
 # 📃 Achievement List 📃
-  
-### 🧪 Achievements Being Tested
 
-These achievements are still in testing and will be obtainable soon:
+Explore the GitHub Achievement List, featuring categories like Achievements Being Tested, Obtainable Achievements, How to Earn Badges, and Un-Obtainable Achievements. Showcase your milestones and learn how to earn them all!
+
+## 🧪 **Achievements Being Tested**
+
+Get a sneak peek at upcoming GitHub achievements and badges. 🎯 These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform. 
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
 | --- | --- | --- | --- | --- |
 Heart On Your Sleeve | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial` | Very Easy | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png" width="60px"></td>  <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Gold.png" width="60px"></td> </tr> <tr> <td align="center">(-)</td>  <td align="center">(-)</td> <td align="center">(-)</td> <td align="center">(-)</td> </tr> </tbody> </table>
 Open Sourcerer | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Open-Sourcerer/OpenSourcerer.png?raw=true" width="120px"> | `⌛Trial` | Medium | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer.png" width="60px"></td>  <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Gold.png" width="60px"></td> </tr> <tr> <td align="center">(-)</td>  <td align="center">(-)</td> <td align="center">(-)</td> <td align="center">(-)</td> </tr> </tbody> </table>
 
 ## 🥇 Obtainable Achievements
+
 The achievements listed below are ones that you can obtain:
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
 | --- | --- | --- | --- | --- |
@@ -24,8 +27,9 @@ Galaxy Brain | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Bad
 Starstruck | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`| Hard | <table> <thead> <tr><th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png" width="60px"></td> <td><img src="/Assests/Badges/Star-Struck/StarStruck_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Star-Struck/StarStruck_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Star-Struck/StarStruck_Gold.png" width="60px"></td> </tr> <tr> <td align="center">16</td> <td align="center">128</td> <td align="center">512</td> <td align="center">4096</td> </tr> </tbody> </table> |
 
 
-### 🧐 How to Earn Badges
-The achievements listed below are ones that you can obtain:
+## 🧐 How to Earn Badges
+
+Learn how to earn badges on GitHub by contributing to projects, engaging with the community, and more. The achievements listed below are ones that you can obtain, showcasing your efforts and milestones on the platform.
 | Name | Badge Image | Earned By |
 | --- | --- | --- |
 Heart On Your Sleeve | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | User obtain this badge by reacting to something on GitHub with a ❤️ emoji |
@@ -40,7 +44,9 @@ Starstruck | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badge
 Mars 2020 Contributor | <img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="120px"> | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter).<br/>*(Now unable to earn)*  |
 Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="120px"> | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/).<br/>*(Now unable to earn)* |
 
-# ⛔ Un-Obtainable Achievements
+## ⛔ Un-Obtainable Achievements
+
+Un-Obtainable Achievements are badges that were once available but can no longer be earned.📜These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments 🏆.
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
 | --- | --- | --- | --- | --- |
 Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="110px"> | `❌ No` |  Very Easy | <table> <thead> <tr><th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="60px"></td> <td></td> <td></td> <td></td> </tr> <tr> <td align="center">1</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table> |
@@ -66,8 +72,9 @@ You can change your preferred Skin Tone by going to the [appearance settings](ht
 | <img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png" width="120px"> | Starstruck | <table> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone2.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone3.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone4.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone5.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone6.png" width="60px"></td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td> </tr> </tbody> </table> |
 | <img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png" width="120px"> | Quickdraw | <table><tbody> <tr> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone2.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone3.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone4.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone5.png" width="60px"></td> <td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone6.png" width="60px"></td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td><td align="center">👋🏼</td> <td align="center">👋🏽</td><td align="center">👋🏾</td><td align="center">👋🏿</td></tr> </tbody> </table> |
 
-## ✨ Highlights Badges ✨
+# ✨ Highlights Badges ✨
 
+Highlights Badges showcase your most impressive achievements and contributions on GitHub. 🌟 These special badges celebrate significant milestones and standout accomplishments, drawing attention to your key contributions and expertise. 🎖️
 | Badge | Name | Is it possible to get? | How to achieve |
 | --- | --- | --- | --- |
 | ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | ✅ Yes | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
@@ -85,8 +92,9 @@ You can change your preferred Skin Tone by going to the [appearance settings](ht
 [stars-dark]: https://raw.githubusercontent.com/UjjwalSaini07/GitHub-Achievement-Badges/0e152f88d892e6fe5122358253ecb0ae9926c0f8/Assests/Extra/stars-dark.svg#gh-dark-mode-only
 [stars-light]: https://raw.githubusercontent.com/UjjwalSaini07/GitHub-Achievement-Badges/28cbfeadd11b7440c1347a3da92c5a9b7a805249/Assests/Extra/stars-light.svg#gh-light-mode-only
 
-## ℹ️ More information ℹ️
+# ℹ️ More information ℹ️
 
+🔍 Discover details on all available badges, including the four tiers that showcase your achievements. 🏅 From beginner to expert, see how each badge represents different levels of accomplishment and contribution. 
 | PairExtraordinaire Badge | PullShark Badge | GalaxyBrain Badge | Starstruck Badge |
 | --- | --- | --- | --- |
 | <img src="Assests/Extra/TiersGifs/PairExtraordinaireTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/PullSharkTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/GalaxyBrainTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/StarstruckTiers.gif" width="170px"> |
