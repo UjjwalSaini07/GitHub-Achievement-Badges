@@ -1,4 +1,5 @@
-# 🏆 GitHub-Achievement-Badges 🏆
+# <img src="/Assests/Extra/Reactions/Tropy.gif?raw=true" width="50px"> GitHub-Achievement-Badges <img src="/Assests/Extra/Reactions/Tropy.gif?raw=true" width="50px">
+
 🌟 Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! 🏆 Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! 🚀
 
 # 📃 Achievement List 📃
