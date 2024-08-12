@@ -1,6 +1,6 @@
 # <img src="/Assests/Extra/Reactions/Tropy.gif?raw=true" width="50px"> GitHub-Achievement-Badges <img src="/Assests/Extra/Reactions/Tropy.gif?raw=true" width="50px">
 
-🌟 Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! 🏆 Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! 🚀
+<img src="Assests/Extra/Reactions/glowing-star_1f31f.gif" width="15px"> Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px"> Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! <img src="Assests/Extra/Reactions/rocketemoji.gif" width="20px">
 
 # <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List
 
@@ -8,7 +8,7 @@ Explore the GitHub Achievement List, featuring categories like Achievements Bein
 
 ## <img src="Assests/Extra/Reactions/TestTube.gif" width="30px"> **Achievements Being Tested**
 
-Get a sneak peek at upcoming GitHub achievements and badges. 🎯 These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform. 
+Get a sneak peek at upcoming GitHub achievements and badges. <img src="Assests/Extra/Reactions/direct-hitArcher.gif" width="20px"> These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform. 
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
 | --- | --- | --- | --- | --- |
 Heart On Your Sleeve | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial` | Very Easy | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png" width="60px"></td>  <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Gold.png" width="60px"></td> </tr> <tr> <td align="center">-</td>  <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table>
@@ -47,7 +47,7 @@ Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault
 
 ## <img src="Assests/Extra/Reactions/Stop.gif" width="25px"> Un-Obtainable Achievements
 
-Un-Obtainable Achievements are badges that were once available but can no longer be earned.These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments 🏆.
+Un-Obtainable Achievements are badges that were once available but can no longer be earned.These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px">.
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
 | --- | --- | --- | --- | --- |
 Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="110px"> | `❌ No` |  Very Easy | <table> <thead> <tr><th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="60px"></td> <td></td> <td></td> <td></td> </tr> <tr> <td align="center">1</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table> |
@@ -75,7 +75,7 @@ You can change your preferred Skin Tone by going to the [appearance settings](ht
 
 # <img src="Assests/Extra/Reactions/sparkles.gif" width="30px"> Highlights Badges <img src="Assests/Extra/Reactions/sparkles.gif" width="30px">
 
-Highlights Badges showcase your most impressive achievements and contributions on GitHub. 🌟 These special badges celebrate significant milestones and standout accomplishments, drawing attention to your key contributions and expertise. 🎖️
+Highlights Badges showcase your most impressive achievements and contributions on GitHub. <img src="Assests/Extra/Reactions/glowing-star_1f31f.gif" width="20px"> These special badges celebrate significant milestones and standout accomplishments, drawing attention to your key contributions and expertise. <img src="Assests/Extra/Reactions/military-medal.png" width="22px">
 | Badge | Name | Is it possible to get? | How to achieve |
 | --- | --- | --- | --- |
 | ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | ✅ Yes | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
@@ -95,7 +95,7 @@ Highlights Badges showcase your most impressive achievements and contributions o
 
 # <img src="Assests/Extra/Reactions/info.png" width="30px"> More information <img src="Assests/Extra/Reactions/info.png" width="30px">
 
-🔍 Discover details on all available badges, including the four tiers that showcase your achievements. 🏅 From beginner to expert, see how each badge represents different levels of accomplishment and contribution. 
+🔍 Discover details on all available badges, including the four tiers that showcase your achievements. <img src="Assests/Extra/Reactions/military-medal_samsung.png" width="20px"> From beginner to expert, see how each badge represents different levels of accomplishment and contribution. 
 | PairExtraordinaire Badge | PullShark Badge | GalaxyBrain Badge | Starstruck Badge |
 | --- | --- | --- | --- |
 | <img src="Assests/Extra/TiersGifs/PairExtraordinaireTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/PullSharkTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/GalaxyBrainTiers.gif" width="170px"> | <img src="Assests/Extra/TiersGifs/StarstruckTiers.gif" width="170px"> |
