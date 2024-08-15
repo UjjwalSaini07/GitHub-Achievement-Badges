@@ -1,3 +1,4 @@
-# Markdown
-*.md linguist-detectable=true
-*.md linguist-documentation=false
+# .gitattributes
+index.md linguist-detectable=true
+README.md linguist-documentation=false
+
