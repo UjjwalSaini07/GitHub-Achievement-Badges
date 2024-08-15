@@ -1,4 +1,4 @@
-# <img src="/Assests/Extra/Reactions/Tropy.gif?raw=true" width="50px"> GitHub Achievement Badges <img src="/Assests/Extra/Reactions/Tropy.gif?raw=true" width="50px">
+# 🏆 GitHub Achievement Badges 🏆
 <img src="Assests/Extra/Reactions/glowing-star_1f31f.gif" width="15px"> Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px"> Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! <img src="Assests/Extra/Reactions/rocketemoji.gif" width="20px">
 ## <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List
 Explore the GitHub Achievement List, featuring categories like **Achievements Being Tested**, **Obtainable Achievements**, **How to Earn Badges**, and **Un-Obtainable Achievements**. Showcase your milestones and learn how to earn them all!
@@ -20,7 +20,7 @@ The achievements listed below are ones that you can obtain:
 | **Quickdraw**      | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png?raw=true" width="125px"> | ✅ Yes | Very Easy | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened.<br>**(You can close your own issues)** |
 | **Public Sponsor** | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/GitHub-Sponsor/GitHubSponsorBadge.png?raw=true" width="125px"> | ✅ Yes | Very Easy | This badge can be earned by sponsoring a repository/organization/user. |
 | **YOLO**           | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/YOLO/YOLO_Badge.png?raw=true" width="125px"> | ✅ Yes | Easy | A user can obtain this badge by merging a pull request without a review<br>**(This requires 1 user and 1 reviewer via Collaborating)** |
-| **Pull Shark**     | <img src="https://github.com/UjjwalSaini07/GitHuYou can get this badge by merging 2 pull requests.b-Achievement-Badges/blob/main/Assests/Badges/Pull-Shark/PullShark.png?raw=true" width="125px"> | ✅ Yes | Medium | You can get this badge by merging 2 pull requests. |
+| **Pull Shark**     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pull-Shark/PullShark.png?raw=true" width="125px"> | ✅ Yes | Medium | You can get this badge by merging 2 pull requests. |
 | **Pair Extraordinaire** | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire.png?raw=true" width="125px"> | ✅ Yes | Medium | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request.<br> **(Must: Requires GitHub Desktop App)** |
 | **Galaxy Brain**   | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Galaxy-Brain/GalaxyBrain.png?raw=true" width="125px"> | ✅ Yes | Medium | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. |
 | **Starstruck**     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="125px"> | ✅ Yes | Hard | This badge is given to someone when one of their repository's gets 16 stars. |
@@ -46,13 +46,13 @@ Every tier has either an x2, x3, or x4 label with it that also includes color. H
 🥇 Gold | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E) | Advanced achievements   |
 
 
-## <img src="Assests/Extra/Reactions/Winner.gif" width="30px"> Conclusion
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/winking-face_1f609.gif" width="30px"> Conclusion
 
 Start earning your GitHub badges today and show the community what you’re capable of! <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px"> Get involved, contribute, and celebrate your journey with these exciting achievements. Whether you're a seasoned developer or just getting started, there's always a badge waiting for you!
 <br>
 <details>
-  <summary><img src="Assests/Extra/Reactions/information-icon.gif" width="15px"> Additional Information</summary>
+  <summary><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/smiling-face-with-sunglasses_1f60e.gif" width="15px"> Additional Information</summary>
   
-  * These badges and achievements are part of an evolving system, with new badges being tested and introduced regularly. Keep contributing to stay ahead of the curve!
-  * You can view your own badges by visiting your GitHub profile and looking under the "Achievements" section.
+  - These badges and achievements are part of an evolving system, with new badges being tested and introduced regularly. Keep contributing to stay ahead of the curve!
+  - You can view your own badges by visiting your GitHub profile and looking under the "Achievements" section.
 </details>
