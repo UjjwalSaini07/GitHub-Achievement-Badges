@@ -10,24 +10,24 @@ Explore the GitHub Achievement List, featuring categories like **Achievements Be
 
 Get a sneak peek at upcoming GitHub achievements and badges. <img src="Assests/Extra/Reactions/direct-hitArcher.gif" width="20px"> These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform.
 
-| Name                  | Badge Image                                                                                                 | Earnable? | Difficulty | Badge Tiers |
-| --------------------- | ----------------------------------------------------------------------------------------------------------- | --------- | ---------- | ----------- |
-| Heart On Your Sleeve  | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial`  | Very Easy  | ![Tiers](#tiers) |
-| Open Sourcerer        | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Open-Sourcerer/OpenSourcerer.png?raw=true" width="120px"> | `⌛Trial`  | Medium     | ![Tiers](#tiers) |
+| Name                  | Badge Image                                                                                                 | Earnable? | Difficulty |
+| --------------------- | ----------------------------------------------------------------------------------------------------------- | --------- | ---------- |
+| Heart On Your Sleeve  | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial`  | Very Easy  |
+| Open Sourcerer        | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Open-Sourcerer/OpenSourcerer.png?raw=true" width="120px"> | `⌛Trial`  | Medium     |
 
 ### <img src="Assests/Extra/Reactions/Medal1.gif" width="50px"> Obtainable Achievements
 
 The achievements listed below are ones that you can obtain:
 
-| Name               | Badge Image                                                                                                         | Earnable? | Difficulty | Badge Tiers     |
+| Name               | Badge Image                                                                                                         | Earnable? | Difficulty |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | --------------- |
-| Quickdraw          | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`  | Very Easy  | ![Tiers](#tiers) |
-| Public Sponsor     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/GitHub-Sponsor/GitHubSponsorBadge.png?raw=true" width="125px"> | `✅ Yes`  | Very Easy  | ![Tiers](#tiers) |
-| YOLO               | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/YOLO/YOLO_Badge.png?raw=true" width="125px"> | `✅ Yes`  | Easy       | ![Tiers](#tiers) |
-| Pull Shark         | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pull-Shark/PullShark.png?raw=true" width="125px"> | `✅ Yes`  | Medium     | ![Tiers](#tiers) |
-| Pair Extraordinaire | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire.png?raw=true" width="125px"> | `✅ Yes`  | Medium     | ![Tiers](#tiers) |
-| Galaxy Brain       | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Galaxy-Brain/GalaxyBrain.png?raw=true" width="125px"> | `✅ Yes`  | Medium     | ![Tiers](#tiers) |
-| Starstruck         | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`  | Hard       | ![Tiers](#tiers) |
+| Quickdraw          | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`  | Very Easy  |
+| Public Sponsor     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/GitHub-Sponsor/GitHubSponsorBadge.png?raw=true" width="125px"> | `✅ Yes`  | Very Easy  |
+| YOLO               | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/YOLO/YOLO_Badge.png?raw=true" width="125px"> | `✅ Yes`  | Easy       |
+| Pull Shark         | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pull-Shark/PullShark.png?raw=true" width="125px"> | `✅ Yes`  | Medium     |
+| Pair Extraordinaire | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire.png?raw=true" width="125px"> | `✅ Yes`  | Medium     |
+| Galaxy Brain       | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Galaxy-Brain/GalaxyBrain.png?raw=true" width="125px"> | `✅ Yes`  | Medium     |
+| Starstruck         | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`  | Hard       |
 
 ### <img src="Assests/Extra/Reactions/ThinkingCorrect.gif" width="30px"> How to Earn Badges
 
@@ -49,12 +49,12 @@ Learn how to earn badges on GitHub by contributing to projects, engaging with th
 
 Un-Obtainable Achievements are badges that were once available but can no longer be earned. These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px">.
 
-| Name                       | Badge Image                                                                                                               | Earnable? | Difficulty | Badge Tiers |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | ----------- |
-| Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="120px"> | `❌ No`   | -          | ![Tiers](#tiers) |
-| Mars 2020 Contributor       | <img src="/Assests/Badges/Mars-2020-Helicopter-Contributor/Mars2020Contributor.png" width="120px"> | `❌ No`   | -          | ![Tiers](#tiers) |
-| Forked                      | <img src="/Assests/Badges/Forked/ForkedBadge.png" width="120px"> | `❌ No`   | -          | ![Tiers](#tiers) |
-| GitHub Graduation 2020      | <img src="/Assests/Badges/GitHub-Graduation-2020/GitHubGrad2020Badge.png" width="120px"> | `❌ No`   | -          | ![Tiers](#tiers) |
+| Name                       | Badge Image                                                                                                               | Earnable? | Difficulty |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
+| Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="120px"> | `❌ No`   | -          |
+| Mars 2020 Contributor       | <img src="/Assests/Badges/Mars-2020-Helicopter-Contributor/Mars2020Contributor.png" width="120px"> | `❌ No`   | -          |
+| Forked                      | <img src="/Assests/Badges/Forked/ForkedBadge.png" width="120px"> | `❌ No`   | -          |
+| GitHub Graduation 2020      | <img src="/Assests/Badges/GitHub-Graduation-2020/GitHubGrad2020Badge.png" width="120px"> | `❌ No`   | -          |
 
 ## <img src="Assests/Extra/Reactions/Medal.gif" width="20px"> Badge Tiers
 
