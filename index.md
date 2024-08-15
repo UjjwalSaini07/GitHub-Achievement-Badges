@@ -1,8 +1,3 @@
----
-layout: default
----
-
-<link rel="stylesheet" href="/path/to/dark-mode.css">
 # 🏆 GitHub Achievement Badges 🏆
 <img src="Assests/Extra/Reactions/glowing-star_1f31f.gif" width="15px"> Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px"> Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! <img src="Assests/Extra/Reactions/rocketemoji.gif" width="20px">
 ## <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List
