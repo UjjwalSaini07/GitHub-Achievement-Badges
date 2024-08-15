@@ -10,24 +10,24 @@ Explore the GitHub Achievement List, featuring categories like **Achievements Be
 
 Get a sneak peek at upcoming GitHub achievements and badges. <img src="Assests/Extra/Reactions/direct-hitArcher.gif" width="20px"> These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform.
 
-| Name                  | Badge Image                                                                                                 | Earnable? | Difficulty |
-| --------------------- | ----------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| Heart On Your Sleeve  | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial`  | Very Easy  |
-| Open Sourcerer        | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Open-Sourcerer/OpenSourcerer.png?raw=true" width="120px"> | `⌛Trial`  | Medium     |
+| Name                  | Badge Image                                                                                                 | Earnable? | Difficulty | Badge Tiers |
+| --------------------- | ----------------------------------------------------------------------------------------------------------- | --------- | ---------- | ---------- |
+| Heart On Your Sleeve  | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial`  | Very Easy  |  <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png" width="60px"></td>  <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Gold.png" width="60px"></td> </tr> <tr> <td align="center">-</td>  <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table> |
+| Open Sourcerer        | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Open-Sourcerer/OpenSourcerer.png?raw=true" width="120px"> | `⌛Trial`  | Medium     | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer.png" width="60px"></td>  <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Gold.png" width="60px"></td> </tr> <tr> <td align="center">-</td>  <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table> |
 
 ### <img src="Assests/Extra/Reactions/Medal1.gif" width="50px"> Obtainable Achievements
 
 The achievements listed below are ones that you can obtain:
 
-| Name               | Badge Image                                                                                                         | Earnable? | Difficulty |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | --------------- |
-| Quickdraw          | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`  | Very Easy  |
-| Public Sponsor     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/GitHub-Sponsor/GitHubSponsorBadge.png?raw=true" width="125px"> | `✅ Yes`  | Very Easy  |
-| YOLO               | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/YOLO/YOLO_Badge.png?raw=true" width="125px"> | `✅ Yes`  | Easy       |
-| Pull Shark         | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pull-Shark/PullShark.png?raw=true" width="125px"> | `✅ Yes`  | Medium     |
-| Pair Extraordinaire | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire.png?raw=true" width="125px"> | `✅ Yes`  | Medium     |
-| Galaxy Brain       | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Galaxy-Brain/GalaxyBrain.png?raw=true" width="125px"> | `✅ Yes`  | Medium     |
-| Starstruck         | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="125px"> | `✅ Yes`  | Hard       |
+| Name               | Badge Image                                                                                                         | Earnable? | Difficulty | Progress |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | -------- |
+| **Quickdraw**      | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png?raw=true" width="125px"> | ✅ Yes | Very Easy | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/Quick-Draw/QuickDraw_SkinTone1.png" width="60px"></td><td></td><td></td><td></td></tr><tr><td align="center">1</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table> |
+| **Public Sponsor** | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/GitHub-Sponsor/GitHubSponsorBadge.png?raw=true" width="125px"> | ✅ Yes | Very Easy | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/GitHub-Sponsor/GitHubSponsorBadge.png" width="60px"></td><td></td><td></td><td></td></tr><tr><td align="center">1</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table> |
+| **YOLO**           | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/YOLO/YOLO_Badge.png?raw=true" width="125px"> | ✅ Yes | Easy | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/YOLO/YOLO_Badge.png" width="60px"></td><td></td><td></td><td></td></tr><tr><td align="center">1</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table> |
+| **Pull Shark**     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pull-Shark/PullShark.png?raw=true" width="125px"> | ✅ Yes | Medium | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/Pull-Shark/PullShark.png" width="60px"></td><td><img src="/Assests/Badges/Pull-Shark/PullShark_Bronze.png" width="60px" align="center"></td><td><img src="/Assests/Badges/Pull-Shark/PullShark_Silver.png" width="60px"></td><td><img src="/Assests/Badges/Pull-Shark/PullShark_Gold.png" width="60px"></td></tr><tr><td align="center">2</td><td align="center">16</td><td align="center">128</td><td align="center">1024</td></tr></tbody></table> |
+| **Pair Extraordinaire** | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire.png?raw=true" width="125px"> | ✅ Yes | Medium | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire.png" width="60px"></td><td><img src="/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire_Bronze.png" width="60px" align="center"></td><td><img src="/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire_Silver.png" width="60px"></td><td><img src="/Assests/Badges/Pair-Extraordinaire/PairExtraordinaire_Gold.png" width="60px"></td></tr><tr><td align="center">1</td><td align="center">10</td><td align="center">24</td><td align="center">48</td></tr></tbody></table> |
+| **Galaxy Brain**   | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Galaxy-Brain/GalaxyBrain.png?raw=true" width="125px"> | ✅ Yes | Medium | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/Galaxy-Brain/GalaxyBrain.png" width="60px"></td><td><img src="/Assests/Badges/Galaxy-Brain/GalaxyBrain_Bronze.png" width="60px" align="center"></td><td><img src="/Assests/Badges/Galaxy-Brain/GalaxyBrain_Silver.png" width="60px"></td><td><img src="/Assests/Badges/Galaxy-Brain/GalaxyBrain_Gold.png" width="60px"></td></tr><tr><td align="center">2</td><td align="center">8</td><td align="center">16</td><td align="center">32</td></tr></tbody></table> |
+| **Starstruck**     | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png?raw=true" width="125px"> | ✅ Yes | Hard | <table><thead><tr><th>DEFAULT</th><th>BRONZE</th><th>SILVER</th><th>GOLD</th></tr></thead><tbody><tr><td align="center"><img src="/Assests/Badges/Star-Struck/StarStruck_SkinTone1.png" width="60px"></td><td><img src="/Assests/Badges/Star-Struck/StarStruck_Bronze.png" width="60px" align="center"></td><td><img src="/Assests/Badges/Star-Struck/StarStruck_Silver.png" width="60px"></td><td><img src="/Assests/Badges/Star-Struck/StarStruck_Gold.png" width="60px"></td></tr><tr><td align="center">16</td><td align="center">128</td><td align="center">512</td><td align="center">4096</td></tr></tbody></table> |
 
 ### <img src="Assests/Extra/Reactions/ThinkingCorrect.gif" width="30px"> How to Earn Badges
 
@@ -51,21 +51,20 @@ Un-Obtainable Achievements are badges that were once available but can no longer
 
 | Name                       | Badge Image                                                                                                               | Earnable? | Difficulty |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="120px"> | `❌ No`   | -          |
-| Mars 2020 Contributor       | <img src="/Assests/Badges/Mars-2020-Helicopter-Contributor/Mars2020Contributor.png" width="120px"> | `❌ No`   | -          |
-| Forked                      | <img src="/Assests/Badges/Forked/ForkedBadge.png" width="120px"> | `❌ No`   | -          |
-| GitHub Graduation 2020      | <img src="/Assests/Badges/GitHub-Graduation-2020/GitHubGrad2020Badge.png" width="120px"> | `❌ No`   | -          |
+| Arctic Code Vault Contributor | <img src="/Assests/Badges/2020-Arctic-Code-Vault-Contributor/2020ArcticCodeVaultBadge.png" width="110px"> | `❌ No`   | Very Easy        |
+| Mars 2020 Contributor       | <img src="/Assests/Badges/Mars-2020-Contributor/Mars2020ContributorBadge.png" width="110px"> | `❌ No`   | Easy          |
 
-## <img src="Assests/Extra/Reactions/Medal.gif" width="20px"> Badge Tiers
+## <img src="Assests/Extra/Reactions/ColorTray.gif" width="26px"> Badge Tiers
 
-GitHub achievements come in various badge tiers, indicating the level of difficulty or rarity of each badge. Tiers may be represented by different colors or symbols to distinguish them.
+GitHub achievements come in various badge tiers, indicating the level of difficulty or rarity of each badge.
+Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below:
 
-| Tier Name | Description            |
-| --------- | ---------------------- |
-| Bronze    | Entry-level achievements |
-| Silver    | Intermediate achievements |
-| Gold      | Advanced achievements   |
-| Platinum  | Elite achievements      |
+| Tier | Label | Sample | Hex | Visual | Description            |
+| --- | --- | --- | --- | --- | ---------------------- |
+🥉 Bronze | `x2` | ![x2](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-bronze.svg) | `#F9BFA7` | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7) | Entry-level achievements |
+🥈 Silver | `x3` | ![x3](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-silver.svg) | `#E1E4E4` | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4) | Intermediate achievements |
+🥇 Gold | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E) | Advanced achievements   |
+
 
 ## <img src="Assests/Extra/Reactions/Winner.gif" width="30px"> Conclusion
 
