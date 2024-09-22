@@ -4,7 +4,7 @@
 
 # <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List
 
-Explore the GitHub Achievement List, featuring categories like Achievements Being Tested, Obtainable Achievements, How to Earn Badges, and Un-Obtainable Achievements. Showcase your milestones and learn how to earn them all!
+Explore the GitHub Achievement List, featuring categories like Achievements Being Tested, Obtainable Achievements, How to Earn Badges, and the Un-Obtainable Achievements. Showcase your milestones and learn how to earn them all!
 
 ## <img src="Assests/Extra/Reactions/TestTube.gif" width="30px"> **Achievements Being Tested**
 
