@@ -6,7 +6,7 @@
 
 Explore the GitHub Achievement List, featuring categories like Achievements Being Tested, Obtainable Achievements, How to Earn Badges, and the Un-Obtainable Achievements. Showcase your milestones and learn how to earn them all!
 
-## <img src="Assests/Extra/Reactions/TestTube.gif" width="30px"> **Achievements Being Tested**
+## <img src="Assests/Extra/Reactions/TestTube.gif" width="30px"> **Achievements Being Tested: **
 
 Get a sneak peek at upcoming GitHub achievements and badges. <img src="Assests/Extra/Reactions/direct-hitArcher.gif" width="20px"> These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform. 
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
