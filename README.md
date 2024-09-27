@@ -2,7 +2,7 @@
 
 <img src="Assests/Extra/Reactions/glowing-star_1f31f.gif" width="15px"> Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px"> Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! <img src="Assests/Extra/Reactions/rocketemoji.gif" width="20px">
 
-# <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List:
+# <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List
 
 Explore the GitHub Achievement List, featuring categories like Achievements Being Tested, Obtainable Achievements, How to Earn Badges, and the Un-Obtainable Achievements. Showcase your milestones and learn how to earn them all!
 
@@ -14,7 +14,7 @@ Get a sneak peek at upcoming GitHub achievements and badges. <img src="Assests/E
 Heart On Your Sleeve | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png?raw=true" width="120px"> | `⌛Trial` | Very Easy | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve.png" width="60px"></td>  <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Heart-on-your-sleeve/HeartOnYourSleeve_Gold.png" width="60px"></td> </tr> <tr> <td align="center">-</td>  <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table>
 Open Sourcerer | <img src="https://github.com/UjjwalSaini07/GitHub-Achievement-Badges/blob/main/Assests/Badges/Open-Sourcerer/OpenSourcerer.png?raw=true" width="120px"> | `⌛Trial` | Medium | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer.png" width="60px"></td>  <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Bronze.png" width="60px" align="center"></td> <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Silver.png" width="60px"></td> <td><img src="/Assests/Badges/Open-Sourcerer/OpenSourcerer_Gold.png" width="60px"></td> </tr> <tr> <td align="center">-</td>  <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> </tbody> </table>
 
-## <img src="Assests/Extra/Reactions/Medal1.gif" width="50px"> Obtainable Achievements:
+## <img src="Assests/Extra/Reactions/Medal1.gif" width="50px"> Obtainable Achievements
 
 The achievements listed below are ones that you can obtain:
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
