@@ -2,11 +2,11 @@
 
 <img src="Assests/Extra/Reactions/glowing-star_1f31f.gif" width="15px"> Discover the complete collection of GitHub Profile Badges and Achievements to showcase your contributions and milestones in style! <img src="Assests/Extra/Reactions/trophyemoji.gif" width="20px"> Elevate your profile by displaying your accomplishments, engaging the community, and celebrating your GitHub journey! <img src="Assests/Extra/Reactions/rocketemoji.gif" width="20px">
 
-# <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List:
+# <img src="Assests/Extra/Reactions/PageRollUp.gif" width="25px"> Achievement List
 
 Explore the GitHub Achievement List, featuring categories like Achievements Being Tested, Obtainable Achievements, How to Earn Badges, and the Un-Obtainable Achievements. Showcase your milestones and learn how to earn them all!
 
-## <img src="Assests/Extra/Reactions/TestTube.gif" width="30px"> **Achievements Being Tested:**
+## <img src="Assests/Extra/Reactions/TestTube.gif" width="30px"> **Achievements Being Tested**
 
 Get a sneak peek at upcoming GitHub achievements and badges. <img src="Assests/Extra/Reactions/direct-hitArcher.gif" width="20px"> These achievements are still in testing and will be obtainable soon. Be among the first to unlock and showcase these exclusive milestones as you continue to contribute and innovate on the platform. 
 | Name | Badge Image | Earnable? | Difficulty | Badge Tiers |
